@@ -7,7 +7,7 @@
 	"rootDir": "./",
 	"allowJs": true,
 	"strict": true,
-	"types": ["node", "express"]
+	"types": ["node", "express", "jest"]
   },
   "exclude": [
 	"build",
